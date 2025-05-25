@@ -6,8 +6,6 @@ Currently learning web dev<br>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/Omkar Padalkar](https://www.linkedin.com/in/omkar-padalkar-125607239/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarpadalkar21@gmail.com) 
 
 # 💻 Tech Stack:
-Here's your sorted badge list grouped by category:
-
 ---
 
 ### 🧑‍💻 **Languages**

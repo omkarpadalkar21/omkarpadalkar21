@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hey there! I’m Omkar<br><br>🔭 I’m currently working on:<br>Building scalable backend systems and exploring AI integrations in web applications<br><br>🤝 I’m looking to collaborate on:<br>Spring Boot, AI/ML-powered applications, and open-source backend projects<br><br>🧠 I’m currently learning:<br>Spring Boot, Spring Security, Spring Data JPA, and core Machine Learning concepts<br><br>💬 Ask me about:<br>Java, Python, backend development, APIs, and web app architecture<br><br>⚡ Fun fact:<br>I enjoy building full-stack apps that blend AI with everyday utility 🚀
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/omkar-padalkar-125607239/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:omkarpadalkar21@gmail.com) 
 
 # 💻 Tech Stack:
